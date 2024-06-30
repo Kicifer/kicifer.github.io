@@ -16,20 +16,21 @@
 		    {% if page.layout == "home" %}
 		        <li><a href="{{ "" | absolute_url }}">{{ page.title }}</a></li>
 	    	{% endif %}
-		{% endfor %}
+	{% endfor %}
 		
-		{% assign custom_order = "information, publication, experience" | split:", "%}
+	{% assign custom_order = "information, publication, experience" | split:", "%}
+	{% if page.layout != "home" and page.nav-menu == true %}
+		{% for category in custom_order %}
+      			{% assign category_page = site.html_pages | where: "category", category %}
+      			{% assign sorted_page = sorted_page | concat: category_page %}
+    		{% endfor %}
+	{% endif %}
+		
+	{% for page in sorted_page %}
 		{% if page.layout != "home" and page.nav-menu == true %}
-			{% for category in custom_order %}
-      				{% assign category_page = site.html_pages | where: "category", category %}
-      				{% assign sorted_page = sorted_page | concat: category_page %}
-    			{% endfor %}
+		<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		{% endif %}
-		{% for page in sorted_page %}
-		    {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-		    {% endif %}
-		{% endfor %}
+	{% endfor %}
 	</ul>
 	<ul class="actions vertical">
 		<li><a href="#" class="button special fit">Get Started</a></li>
