@@ -14,7 +14,7 @@ category: information
 <section id="one">
 	<div class="inner">
 		<header class="major" style="display: block; justify-content: space-between; align-items: start;">
-			<h1 style="margin: 0;float: left;">site.author</h1>
+			<h1 style="margin: 0;float: left;">{site.author}</h1>
 			<img src="assets/images/pic01.jpg" alt="" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover; float: right;">
 		</header>
 
