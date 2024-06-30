@@ -13,7 +13,7 @@ category: information
 <!-- One -->
 <section id="one">
 	<div class="inner">
-	<span class="image right"><img src="assets/images/pic01.jpg" alt="" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;"></span><header class="major" style="display: block; justify-content: space-between; align-items: end;"><h1 style="margin: 0;">{{site.author}}</h1>
+	<span class="image right"><img src="assets/images/pic01.jpg" alt="" style="border: thick double #c8161e; width: 200px; height: 200px; object-fit: cover;"></span><header class="major" style="display: block; justify-content: space-between; align-items: end;"><h1 style="margin: 0;">{{site.author}}</h1>
 	</header>
 
 <!-- Content -->
