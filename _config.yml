@@ -30,6 +30,7 @@ socials:
   Twitter: 
   Facebook:
   Slack:
+  Google-scholar: https://scholar.google.com/citations?user=QAr69TYAAAAJ&hl=en
 
 # build settings
 markdown: kramdown
