@@ -13,9 +13,8 @@ category: information
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major" style="display: block; justify-content: space-between; align-items: end;">
-		<p><span class="image right"><img src="assets/images/pic01.jpg" alt="" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;"></span></p><h1 style="margin: 0;">{{site.author}}</h1>
-		</header>
+	<span class="image right"><img src="assets/images/pic01.jpg" alt="" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;"></span><header class="major" style="display: block; justify-content: space-between; align-items: end;"><h1 style="margin: 0;">{{site.author}}</h1>
+	</header>
 
 <!-- Content -->
 <h2 id="content">Sample Content</h2>
