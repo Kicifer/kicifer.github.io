@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'Hello! I'm Ningkang Zhao, or you can call me Lincoln!'
-description: Welcome to my personal pages.
+description: 'Welcome to my personal pages.'
 image: null
 author: null
 show_tile: false
