@@ -20,21 +20,18 @@
 		{% assign categories = "information,publication,experience" | split: ',' %}
 		    {% for category in categories %}
 		      {% assign page = site.pages | where: "category", category | first %}
-		      {% if page %}
+		      {% if page.layout != "home" and page.nav-menu == true %}
 		        <li><a href="{{ page.url }}">{{ category | capitalize }}</a></li>
 		      {% endif %}
 		    {% endfor %}
 		
 		    {% assign uncategorized_pages = site.pages | where_exp: "page", "page.category == nil" %}
-		    {% if uncategorized_pages %}
-		      <li>Uncategorized
-		        <ul>
-		          {% for page in uncategorized_pages %}
+		    {% for page in uncategorized_pages %}
+			{% if page.layout != "home" and page.nav-menu == true %}
 		            <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-		          {% endfor %}
-		        </ul>
-		      </li>
-		    {% endif %}
+		    	{% endif %}
+			{% endfor %}
+
 <!--	
 	</ul>
 	<ul class="actions vertical">
