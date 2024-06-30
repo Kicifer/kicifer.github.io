@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Information
+title: AInformation
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
