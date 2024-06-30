@@ -15,6 +15,7 @@ category: information
 	<div class="inner">
 		<header class="major">
 			<h1>Ningkang Zhao</h1>
+			<img src="assets/images/pic01.jpg" alt="Your Photo" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;">
 		</header>
 
 <!-- Content -->
