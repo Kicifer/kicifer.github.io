@@ -13,8 +13,9 @@ category: information
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h1><p><span class="image right"><img src="assets/images/pic01.jpg" alt="" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;">Ningkang Zhao</span></p></h1>
+		<header class="major" style="display: flex; justify-content: space-between; align-items: center;">
+			<h1 style="margin: 0;">Ningkang Zhao</h1>
+			<img src="assets/images/pic01.jpg" alt="" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;">
 		</header>
 
 <!-- Content -->
