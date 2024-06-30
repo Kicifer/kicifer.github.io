@@ -5,6 +5,7 @@
 {% endif %}
 
 {% assign custom_order = "Information, Publication, Experience" | split:", "%}
+{% assign sorted_tiles = "" %}
 
 {% for cate in custom_order %}
   {% assign category_tiles = tiles | where: "category", cate %}
