@@ -6,12 +6,11 @@
 
 {% assign custom_order = "Information, Publication, Experience" | split:", "%}
 
+<section id="one" class="tiles">
 {% for category in custom_order %}
   {% assign category_tiles = tiles | where: "category", category %}
   {% assign sorted_tiles = sorted_tiles | concat: category_tiles %}
 {% endfor %}
-
-<section id="one" class="tiles">
   {% for tile in sorted_tiles limit:site.tiles-count %}
   <article>
     <span class="image">
