@@ -26,9 +26,9 @@
 		    {% endfor %}
 		
 		    {% assign uncategorized_pages = site.pages | where_exp: "page", "page.category == nil" %}
-		    {% for page in uncategorized_pages %}
-			{% if page.layout != "home" and page.nav-menu == true %}
-		            <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+		    {% for unsort_page in uncategorized_pages %}
+			{% if unsort_page.layout != "home" and unsort_page.nav-menu == true %}
+		            <li><a href="{{ unsort_page.url | absolute_url }}">{{ unsort_page.title }}</a></li>
 		    	{% endif %}
 			{% endfor %}
 
