@@ -15,7 +15,7 @@ category: information
 	<div class="inner">
 		<header class="major" style="display: block; justify-content: space-between; align-items: end;">
 			<h1 style="margin: 0;">{{site.author}}</h1>
-			<img src="assets/images/pic01.jpg" alt="" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;">
+			<img src="assets/images/pic01.jpg" alt="" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;float: right;">
 		</header>
 
 <!-- Content -->
