@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi! my name is Ningkang Zhao, or you can call me Lincoln'
-description: null
+landing-title: 'Hi! My name is Ningkang Zhao, or you can call me Lincoln'
+description: 'Welcome to my personal pages!'
 image: null
 author: null
 show_tile: false
