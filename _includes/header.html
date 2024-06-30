@@ -24,7 +24,7 @@
 	{% for category in custom_order %}
 	    {% for page in site.html_pages %}
 	        {% if page.category == category and page.layout != "home" and page.nav-menu == true %}
-	            {% assign sorted_pages = sorted_pages | push: page %}
+	            {% assign sorted_pages = sorted_pages | concat: page %}
 	        {% endif %}
 	    {% endfor %}
 	{% endfor %}
