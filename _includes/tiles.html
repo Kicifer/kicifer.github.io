@@ -4,7 +4,7 @@
     {% assign tiles = site.html_pages | where_exp: "item", "item.show_tile != false" %}
 {% endif %}
 
-{% assign custom_order = "Information, Publication, Experience" | split:", "%}
+{% assign custom_order = "information, publication, experience" | split:", "%}
 
 <section id="one" class="tiles">
 {% for category in custom_order %}
