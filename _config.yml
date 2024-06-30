@@ -3,7 +3,7 @@ title: Ningkang Zhao
 subtitle: Personal Pages
 email: k_icifer@sjtu.edu.cn
 description: A second-year postgraduate student at Shanghai Jiao Tong University
-baseurl: # the subpath of your site, e.g. /blog
+baseurl: "/homepage"# the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Ningkang Zhao
 street_address: 800 Dongchuan RD., Minhang District
