@@ -18,14 +18,32 @@
 	    	{% endif %}
 	{% endfor %}
 		
-	{% for page in site.html_pages %}
-		{% if page.layout != "home" and page.nav-menu == true %}
-		<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-		{% endif %}
+	{% capture custom_order %}
+	    information
+	    publication
+	    experience
+	{% endcapture %}
+	
+	{% assign sorted_pages = [] %}
+	{% assign custom_order_lines = custom_order | newline_to_br | split: '<br />' %}
+	
+	{% for category in custom_order_lines %}
+	    {% for page in site.html_pages %}
+	        {% if page.category == category and page.layout != "home" and page.nav-menu == true %}
+	            {% assign sorted_pages = sorted_pages | push: page %}
+	        {% endif %}
+	    {% endfor %}
 	{% endfor %}
+	
+	{% for page in sorted_pages %}
+	    <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+	{% endfor %}
+
 	</ul>
+<!--
 	<ul class="actions vertical">
 		<li><a href="#" class="button special fit">Get Started</a></li>
 		<li><a href="#" class="button fit">Log In</a></li>
 	</ul>
+-->
 </nav>
