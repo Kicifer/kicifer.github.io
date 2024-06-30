@@ -4,7 +4,7 @@ title: Home
 landing-title: 'Hi! My name is Ningkang Zhao, or you can call me Lincoln'
 description: 'Welcome to my personal pages!'
 image: null
-author: null
+author: Ningkang Zhao
 show_tile: false
 ---
 
