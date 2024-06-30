@@ -4,6 +4,7 @@ title: Information
 description: Personal information
 image: assets/images/pic01.jpg
 nav-menu: true
+category: Information
 ---
 
 <!-- Main -->
