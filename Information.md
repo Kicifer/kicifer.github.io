@@ -14,7 +14,7 @@ category: information
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Ningkang Zhao</h1><p><span class="image right"><img src="assets/images/pic01.jpg" alt="" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;"></span></p>
+			<h1>Ningkang Zhao<p><span class="image right"><img src="assets/images/pic01.jpg" alt="" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;"></span></p></h1>
 		</header>
 
 <!-- Content -->
