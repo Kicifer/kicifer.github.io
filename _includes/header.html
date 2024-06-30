@@ -19,9 +19,9 @@
 		{% endfor %}
 		{% assign categories = "information,publication,experience" | split: ',' %}
 		    {% for category in categories %}
-		      {% assign page = site.pages | where: "category", category | first %}
-		      {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{{ page.url | absolute_url }}">{{ category | capitalize }}</a></li>
+		      {% assign sort_page = site.pages | where: "category", category | first %}
+		      {% if sort_page.layout != "home" and sort_page.nav-menu == true %}
+		        <li><a href="{{ sort_page.url | absolute_url }}">{{ category | capitalize }}</a></li>
 		      {% endif %}
 		    {% endfor %}
 		
