@@ -20,7 +20,7 @@
 		
 	{% assign custom_order = "information, publication, experience" | split:", "%}
 	{% for page in site.html_pages %}
-		{% if and page.layout != "home" and page.nav-menu == true %}
+		{% if page.layout != "home" and page.nav-menu == true %}
 	    <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 	{% endfor %}
 
