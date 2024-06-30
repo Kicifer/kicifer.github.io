@@ -19,15 +19,8 @@
 	{% endfor %}
 		
 	{% assign custom_order = "information, publication, experience" | split:", "%}
-	{% for category in custom_order %}
-	    {% for page in site.html_pages %}
-	        {% if page.category == category and page.layout != "home" and page.nav-menu == true %}
-	            {% assign sorted_pages = sorted_pages | push: page %}
-	        {% endif %}
-	    {% endfor %}
-	{% endfor %}
-	
-	{% for page in sorted_pages %}
+	{% for page in site.html_pages %}
+		{% if and page.layout != "home" and page.nav-menu == true %}
 	    <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 	{% endfor %}
 
