@@ -21,14 +21,14 @@
 		    {% for category in categories %}
 		      {% assign page = site.pages | where: "category", category | first %}
 		      {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{{ page.url }}">{{ category | capitalize }}</a></li>
+		        <li><a href="{{ page.url | absolute_url }}">{{ category | capitalize }}</a></li>
 		      {% endif %}
 		    {% endfor %}
 		
 		    {% assign uncategorized_pages = site.pages | where_exp: "page", "page.category == nil" %}
 		    {% for page in uncategorized_pages %}
 			{% if page.layout != "home" and page.nav-menu == true %}
-		            <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+		            <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		    	{% endif %}
 			{% endfor %}
 
