@@ -6,7 +6,7 @@
 
 {% assign custom_order = "information, publication, experience" | split:", "%}
 
-{% assign sorted_tiles = tiles | sort_natural: custom_order, "category" %}
+{% assign sorted_tiles = tiles | sort_natural: custom_order, tiles.category %}
 
 <section id="one" class="tiles">
   {% for tile in sorted_tiles limit:site.tiles-count %}
