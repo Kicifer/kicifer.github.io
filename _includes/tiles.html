@@ -5,7 +5,6 @@
 {% endif %}
 
 {% assign custom_order = "Information, Publication, Experience" | split:", "%}
-{% assign sorted_tiles = "" %}
 
 {% for tile in tiles limit:site.tiles-count %}
   {% assign category_tiles = tiles | where: "category", custom_order[tile] %}
