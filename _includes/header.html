@@ -18,16 +18,10 @@
 	    	{% endif %}
 	{% endfor %}
 		
-	{% capture custom_order %}
-	    information
-	    publication
-	    experience
-	{% endcapture %}
-	
+	{% assign custom_order = "information, publication, experience" | split:", "%}
 	{% assign sorted_pages = [] %}
-	{% assign custom_order_lines = custom_order | newline_to_br | split: '<br />' %}
 	
-	{% for category in custom_order_lines %}
+	{% for category in custom_order %}
 	    {% for page in site.html_pages %}
 	        {% if page.category == category and page.layout != "home" and page.nav-menu == true %}
 	            {% assign sorted_pages = sorted_pages | push: page %}
