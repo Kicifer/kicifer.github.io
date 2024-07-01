@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Experience
-description: Research pappers
+description: Additional experiences
 image: assets/images/pic11.jpg
 nav-menu: true
 category: experience
