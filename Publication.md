@@ -1,10 +1,10 @@
 ---
-title: Experience
+title: Publication
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Articles'
 image: assets/images/pic07.jpg
 nav-menu: true
-category: experience
+category: publication
 ---
 
 <!-- Main -->
