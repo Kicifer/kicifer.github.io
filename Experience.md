@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: landing
 title: Experience
 description: Additional experiences
 image: assets/images/pic11.jpg
