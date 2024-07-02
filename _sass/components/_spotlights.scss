@@ -62,7 +62,7 @@
 
 			&:nth-child(2n) {
 				@include vendor('flex-direction', 'row-reverse');
-				background-color: desaturate(cadetblue, 4), 2);
+				background-color: desaturate(lighten(cadetblue, 4), 2);
 
 				> .content {
 					@include vendor('align-items', 'flex-end');
