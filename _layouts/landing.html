@@ -24,13 +24,13 @@
                 </header>
                 <div class="content">
 
-                    <p style="background-color: yellow;">{{ page.description }}</p>
+                    {{ page.description }}
 			
                 </div>
             </div>
         </section>
 
-    {{ content }}
+    <p style="background-color: yellow;">{{ page.description }}</p>{{ content }}
 
     {% include footer.html %}
 
