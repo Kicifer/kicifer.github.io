@@ -19,7 +19,7 @@ category: information
 	</header>
 
 <!-- Content -->
-<ul class="icons">
+<ul class="icons" style="list-style-type: none; padding: 0; display: flex; flex-wrap: wrap;">
 	<li><i class="icon fa-building-columns"></i><a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a></li>
 	<li><i class="icon fa-orcid" style="margin:8px;"></i><a href="https://orcid.org/0009-0001-6229-4636">0009-0001-6229-4636</a></li>
 </ul>
