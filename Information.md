@@ -19,7 +19,7 @@ category: information
 <!-- Content -->
 <ul class="icons">
 	<li>
-		<a href="https://www.sjtu.edu.cn/" class="icon fa-building-columns">
+		<a href="https://www.sjtu.edu.cn/" class="icon fa-github">
 			<span class="label">Shanghai Jiao Tong University</span></a></li>
 </ul>
 <h2 id="content">Sample Content</h2>
