@@ -16,7 +16,9 @@
 		> section {
 			@include vendor('display', 'flex');
 			@include vendor('flex-direction', 'row');
-			background-color: _palette(bg); 
+
+			background-color: desaturate(lighten(cadetblue, 2), 1);
+
 
 			> .image {
 				background-position: center center;
@@ -33,7 +35,7 @@
 				}
 
 				&:before {
-					background: transparentize(_palette(bg), 0.1);
+					background: transparentize(cadetblue, 0.1);
 					content: '';
 					display: block;
 					height: 100%;
@@ -62,7 +64,9 @@
 
 			&:nth-child(2n) {
 				@include vendor('flex-direction', 'row-reverse');
-				background-color: _palette(bg); 
+
+				background-color: desaturate(lighten(cadetblue, 4), 2);
+
 
 				> .content {
 					@include vendor('align-items', 'flex-end');

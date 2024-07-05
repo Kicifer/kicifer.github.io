@@ -11,7 +11,7 @@ category: publication
 <div id="main">
 
 <!-- One -->
-<section id="one">
+<section id="one" class="landing">
 	<div class="inner">
 		<header class="major">
 			<h2>Sed amet aliquam</h2>

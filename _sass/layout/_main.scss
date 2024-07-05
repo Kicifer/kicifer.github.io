@@ -7,7 +7,9 @@
 /* Main */
 
 	#main {
-		background-color: _palette(bg);
+
+		background-color: transparent;
+
 
 		> * {
 			border-top: solid 1px _palette(border);
@@ -20,7 +22,7 @@
 		}
 
 		&.alt {
-			background-color: transparent;
+			background-color: _palette(bg);
 			border-bottom: solid 1px _palette(border);
 		}
 	}
