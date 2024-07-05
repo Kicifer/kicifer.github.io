@@ -18,15 +18,21 @@ category: information
 	<h1 style="margin: 0;">{{site.author}}</h1>
 	</header>
 
-<!-- Content -->
+<!--icon with information-->
 <ul class="icons" style="list-style-type: none; padding: 0; display: flex; flex-wrap: wrap;">
 	<li style="display: flex; align-items: center;"><i class="icon fa-building-columns" style="margin:8px;"></i><a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a></li>
 	<li style="display: flex; align-items: center;"><i class="icon fa-orcid" style="margin:8px;"></i><a href="https://orcid.org/0009-0001-6229-4636">0009-0001-6229-4636</a></li>
 	<li style="display: flex; align-items: center;"><i class="icon fa-envelope" style="margin:8px;"></i><a href="mailto:k_icifer@sjtu.edu.cn">k_icifer@sjtu.edu.cn</a></li>
 	<li style="display: flex; align-items: center;"><i class="icon fa-phone" style="margin:8px;"></i><a href="tel:+8618771767338">187-7176-7338</a></li>
 </ul>
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<!-- Content -->
+<h2 id="content">Introduction</h2>
+<p>I'm a second-year master from [College of Smart Energy](https://www.senergy.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My research interests include nuclear energy and nuclear technology engineering, accident tolerant fuel (ATF), nanocrystalline diamond (NCD), and heat transfer.
+
+I am very fortunate to be advised by Prof. M. Song from [College of Smart Energy](https://www.senergy.sjtu.edu.cn/), Shanghai Jiao Tong University.
+
+You can find my CV here: [Ningkang Zhao's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).</p>
+
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
