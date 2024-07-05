@@ -13,7 +13,9 @@ category: information
 <!-- One -->
 <section id="one">
 	<div class="inner">
-	<span class="image right"><img src="assets/images/Ningkang Zhao.jpg" alt="" style="border: thick double #c8161e; width: auto; height: 180px; object-fit: cover;"></span><header class="major" style="display: block; justify-content: space-between; align-items: end;"><h1 style="margin: 0;">{{site.author}}</h1>
+	<span class="image right" style="flex:1; max-width:100%;"><img src="assets/images/Ningkang Zhao.jpg" alt="" style="border: thick double #c8161e; max-width: 100%; height: auto; object-fit: cover;"></span>
+	<header class="major" style="display: block; justify-content: space-between; align-items: end;">
+	<h1 style="margin: 0;">{{site.author}}</h1>
 	</header>
 
 <!-- Content -->
