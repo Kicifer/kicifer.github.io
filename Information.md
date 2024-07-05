@@ -13,7 +13,7 @@ category: information
 <!-- One -->
 <section id="one">
 	<div class="inner">
-	<span class="image right" style="flex:1; max-width:100%; width:180px; text-align:center;"><img src="assets/images/Ningkang Zhao.jpg" alt="" style="border: 1px solid rgba(18, 18, 182, 1); max-width: 100%; height: auto; object-fit: cover;"></span>
+	<span class="image right" style="flex:1; max-width:100%; width:180px; text-align:center;"><img src="assets/images/Ningkang Zhao.jpg" alt="" style="border: 3px solid rgba(181, 181, 182, 1); max-width: 100%; height: auto; object-fit: cover;"></span>
 	<header class="major" style="display: block; justify-content: space-between; align-items: end;">
 	<h1 style="margin: 0;">{{site.author}}</h1>
 	</header>
