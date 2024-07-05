@@ -23,7 +23,7 @@ category: information
 	<li style="display: flex; align-items: center;"><i class="icon fa-building-columns" style="margin:8px;"></i><a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a></li>
 	<li style="display: flex; align-items: center;"><i class="icon fa-orcid" style="margin:8px;"></i><a href="https://orcid.org/0009-0001-6229-4636">0009-0001-6229-4636</a></li>
 	<li style="display: flex; align-items: center;"><i class="icon fa-envelope" style="margin:8px;"></i><a href="mailto:k_icifer@sjtu.edu.cn">k_icifer@sjtu.edu.cn</a></li>
-	<li style="display: flex; align-items: center;"><i class="icon fa-phone" style="margin:8px;"></i>187-7176-7338</li>
+	<li style="display: flex; align-items: center;"><i class="icon fa-phone" style="margin:8px;"></i><a tel:8618771767338></a>187-7176-7338</li>
 </ul>
 <h2 id="content">Sample Content</h2>
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
