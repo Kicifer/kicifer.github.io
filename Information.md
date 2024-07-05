@@ -27,9 +27,9 @@ category: information
 </ul>
 <!-- Content -->
 <h2 id="content">Introduction</h2>
-<p>I'm a second-year master at <a href="https://www.senergy.sjtu.edu.cn/">College of Smart Energy</a>, <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a>. My research interests include nuclear energy and nuclear technology engineering, accident tolerant fuel (ATF), nanocrystalline diamond (NCD), and heat transfer.\
+<p>I'm a second-year master at <a href="https://www.senergy.sjtu.edu.cn/">College of Smart Energy</a>, <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a>. My research interests include nuclear energy and nuclear technology engineering, accident tolerant fuel (ATF), nanocrystalline diamond (NCD), and heat transfer.  
 	
-I am very fortunate to be advised by Prof. M. Song from College of Smart Energy, Shanghai Jiao Tong University.\
+I am very fortunate to be advised by Prof. M. Song from College of Smart Energy, Shanghai Jiao Tong University.  
 
 You can find my CV here: <a href="../assets/Curriculum_Vitae.pdf">Ningkang Zhao's Curriculum Vitae</a>.</p>
 
