@@ -13,10 +13,13 @@ category: information
 <!-- One -->
 <section id="one">
 	<div class="inner">
-	<span class="image right"><img src="assets/images/Ningkang Zhao.jpg" alt="" style="border: thick double #c8161e; width: 200px; height: 200px; object-fit: cover;"></span><header class="major" style="display: block; justify-content: space-between; align-items: end;"><h1 style="margin: 0;">{{site.author}}</h1>
+	<span class="image right"><img src="assets/images/Ningkang Zhao.jpg" alt="" style="border: thick double #c8161e; width: auto; height: 180px; object-fit: cover;"></span><header class="major" style="display: block; justify-content: space-between; align-items: end;"><h1 style="margin: 0;">{{site.author}}</h1>
 	</header>
 
 <!-- Content -->
+<ul class="icons">
+	<li><a href="https://www.sjtu.edu.cn/" class="icon building-columns"><span class="label">Shanghai Jiao Tong University</span></a></li>
+</ul>
 <h2 id="content">Sample Content</h2>
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 <div class="row">
