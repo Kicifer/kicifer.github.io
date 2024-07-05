@@ -18,7 +18,9 @@ category: information
 
 <!-- Content -->
 <ul class="icons">
-	<li><a href="https://www.sjtu.edu.cn/" class="icon building-columns"><span class="label">Shanghai Jiao Tong University</span></a></li>
+	<li>
+		<a href="https://www.sjtu.edu.cn/" class="icon fa-building-columns">
+			<span class="label">Shanghai Jiao Tong University</span></a></li>
 </ul>
 <h2 id="content">Sample Content</h2>
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
