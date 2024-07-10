@@ -8,4 +8,4 @@ author: Ningkang Zhao
 show_tile: false
 ---
 
-A second-year postgraduate student specializing in energy engineering, with a focus on nuclear energy and nuclear technology, at the College of Smart Energy, Shanghai Jiao Tong University.
+A second-year postgraduate student specializing in Energy and Power Engineering, with a focus on Nuclear Energy and Nuclear Technology Engineering, at the College of Smart Energy, Shanghai Jiao Tong University.
