@@ -20,15 +20,15 @@ category: information
 
 <!--icon with information-->
 <ul class="icons" style="list-style-type: none; padding: 0; display: flex; flex-wrap: wrap;">
-	<li style="display: flex; align-items: center;"><i class="icon fa-building-columns" style="margin:8px;"></i><a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a></li>
-	<li style="display: flex; align-items: center;"><i class="icon fa-orcid" style="margin:8px;"></i><a href="https://orcid.org/0009-0001-6229-4636">0009-0001-6229-4636</a></li>
+	<li style="display: flex; align-items: center;"><i class="icon fa-building-columns" style="margin:8px;"></i><a href="https://www.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University</a></li>
+	<li style="display: flex; align-items: center;"><i class="icon fa-orcid" style="margin:8px;"></i><a href="https://orcid.org/0009-0001-6229-4636" target="_blank">0009-0001-6229-4636</a></li>
 	<li style="display: flex; align-items: center;"><i class="icon fa-envelope" style="margin:8px;"></i><a href="mailto:k_icifer@sjtu.edu.cn">k_icifer@sjtu.edu.cn</a></li>
 	<li style="display: flex; align-items: center;"><i class="icon fa-phone" style="margin:8px;"></i><a href="tel:+8618771767338">187-7176-7338</a></li>
 </ul>
 
 <!-- Introduction -->
 <h2 id="introduction">Introduction</h2>
-<p>I'm a second-year postgraduate student at <a href="https://www.senergy.sjtu.edu.cn/">College of Smart Energy</a>, <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a>. My research interests include nuclear energy and nuclear technology engineering, accident tolerant fuel (ATF), nanocrystalline diamond (NCD), and heat transfer. I am very fortunate to be advised by Prof. M. Song from College of Smart Energy, Shanghai Jiao Tong University. You can find my CV here: <a href="../assets/Curriculum_Vitae.pdf" target="_blank">Ningkang Zhao's Curriculum Vitae</a>.</p>
+<p>I'm a second-year postgraduate student at <a href="https://www.senergy.sjtu.edu.cn/" target="_blank">College of Smart Energy</a>, <a href="https://www.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University</a>. My research interests include nuclear energy and nuclear technology engineering, accident tolerant fuel (ATF), nanocrystalline diamond (NCD), and heat transfer. I am very fortunate to be advised by Prof. M. Song from College of Smart Energy, Shanghai Jiao Tong University. You can find my CV here: <a href="../assets/Curriculum_Vitae.pdf" target="_blank">Ningkang Zhao's Curriculum Vitae</a>.</p>
 
 	
  <!-- Education -->
