@@ -56,6 +56,7 @@ category: information
 				<td>Bachelor</td>
 				<td>2017.09 - 2021.06</td>
 			</tr>
+		</tbody>
 	</table>
 </div>
 
