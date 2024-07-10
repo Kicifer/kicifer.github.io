@@ -16,11 +16,12 @@
 		}
 		
 		&.reference{
-			list-style: decimal;
+    			list-style: none; /* 移除默认的数字编号 */
 			margin: 0 0 _size(element-margin) 0;
 			padding-left: 1.25em;
-
+    			counter-reset: item; /* 初始化计数器 *
 			li {
+			    	counter-increment: item; /* 增加计数器 */
 				padding-left: 0.25em;
 			}
 			li::before {
