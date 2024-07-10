@@ -25,10 +25,41 @@ category: information
 	<li style="display: flex; align-items: center;"><i class="icon fa-envelope" style="margin:8px;"></i><a href="mailto:k_icifer@sjtu.edu.cn">k_icifer@sjtu.edu.cn</a></li>
 	<li style="display: flex; align-items: center;"><i class="icon fa-phone" style="margin:8px;"></i><a href="tel:+8618771767338">187-7176-7338</a></li>
 </ul>
+
 <!-- Introduction -->
 <h2 id="introduction">Introduction</h2>
-<p>I'm a second-year postgraduate student at <a href="https://www.senergy.sjtu.edu.cn/">College of Smart Energy</a>, <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a>. My research interests include nuclear energy and nuclear technology engineering, accident tolerant fuel (ATF), nanocrystalline diamond (NCD), and heat transfer. I am very fortunate to be advised by Prof. M. Song from College of Smart Energy, Shanghai Jiao Tong University. You can find my CV here: <a href="../assets/Curriculum_Vitae.pdf">Ningkang Zhao's Curriculum Vitae</a>.
+<p>I'm a second-year postgraduate student at <a href="https://www.senergy.sjtu.edu.cn/">College of Smart Energy</a>, <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a>. My research interests include nuclear energy and nuclear technology engineering, accident tolerant fuel (ATF), nanocrystalline diamond (NCD), and heat transfer. I am very fortunate to be advised by Prof. M. Song from College of Smart Energy, Shanghai Jiao Tong University. You can find my CV here: <a href="../assets/Curriculum_Vitae.pdf">Ningkang Zhao's Curriculum Vitae</a>.</p>
 
+	
+ <!-- Education -->
+<h2 id="education">Education Background</h2>
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th>School Name</th>
+				<th>Major</th>
+				<th>Degree</th>
+				<th>Date</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Shanghai Jiao Tong University</td>
+				<td>Energy and Power Engineering</td>
+				<td>Master</td>
+				<td>2022.09 - 2025.03</td>
+			</tr>
+			<tr>
+				<td>Changsha University of Science & Technology</td>
+				<td>Electrical Engineering and Automation</td>
+				<td>Bachelor</td>
+				<td>2017.09 - 2021.06</td>
+			</tr>
+	</table>
+</div>
+
+ 
 <!-- Resarch -->
 <h2 id="research">Research</h2>
 
