@@ -28,7 +28,7 @@ category: information
 
 <!-- Introduction -->
 <h2 id="introduction">Introduction</h2>
-<p>I'm a second-year postgraduate student at <a href="https://www.senergy.sjtu.edu.cn/">College of Smart Energy</a>, <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a>. My research interests include nuclear energy and nuclear technology engineering, accident tolerant fuel (ATF), nanocrystalline diamond (NCD), and heat transfer. I am very fortunate to be advised by Prof. M. Song from College of Smart Energy, Shanghai Jiao Tong University. You can find my CV here: <a href="../assets/Curriculum_Vitae.pdf">Ningkang Zhao's Curriculum Vitae</a>.</p>
+<p>I'm a second-year postgraduate student at <a href="https://www.senergy.sjtu.edu.cn/">College of Smart Energy</a>, <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a>. My research interests include nuclear energy and nuclear technology engineering, accident tolerant fuel (ATF), nanocrystalline diamond (NCD), and heat transfer. I am very fortunate to be advised by Prof. M. Song from College of Smart Energy, Shanghai Jiao Tong University. You can find my CV here: <a href="../assets/Curriculum_Vitae.pdf" target="_blank">Ningkang Zhao's Curriculum Vitae</a>.</p>
 
 	
  <!-- Education -->
@@ -64,8 +64,8 @@ category: information
 <!-- Resarch -->
 <h2 id="research">Research</h2>
 <ol class="reference">
-	<li><a href="https://doi.org/10.1002/smll.202401292">N. Zhao, M. Song, X. Zhang, W. Xu, X. Liu, Nanodiamond Coating in Energy and Engineering Fields: Synthesis Methods, Characteristics, and Applications. Small, 2401292.</a></li>
-	<li><a href="https://doi.org/10.1016/j.heliyon.2024.e29750">W. Xu, L. Tang, N. Zhao, K. Ouyang, H. He, X. Liu, Corrosive Effect on Saturated Pool Boiling Heat Transfer Characteristics of Metallic Surfaces with Hierarchical Micro/Nano Structures. Heliyon 2024, 10 (8).</a></li>
+	<li><a href="https://doi.org/10.1002/smll.202401292" target="_blank">N. Zhao, M. Song, X. Zhang, W. Xu, X. Liu, Nanodiamond Coating in Energy and Engineering Fields: Synthesis Methods, Characteristics, and Applications. Small, 2401292.</a></li>
+	<li><a href="https://doi.org/10.1016/j.heliyon.2024.e29750" target="_blank">W. Xu, L. Tang, N. Zhao, K. Ouyang, H. He, X. Liu, Corrosive Effect on Saturated Pool Boiling Heat Transfer Characteristics of Metallic Surfaces with Hierarchical Micro/Nano Structures. Heliyon 2024, 10 (8).</a></li>
 </ol>
 <ul class="actions">
 	<li><a href="Publication.html" class="button">More</a></li>
