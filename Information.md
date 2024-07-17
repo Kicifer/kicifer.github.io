@@ -61,14 +61,14 @@ category: information
 </div>
 
  
-<!-- Resarch -->
-<h2 id="research">Research</h2>
+<!-- Resarch Publication -->
+<h2 id="research">Research Publication</h2>
 <ol class="reference">
 	<li><a href="https://doi.org/10.1002/smll.202401292" target="_blank">N. Zhao, M. Song, X. Zhang, W. Xu, X. Liu, Nanodiamond Coating in Energy and Engineering Fields: Synthesis Methods, Characteristics, and Applications. Small, 2401292.</a></li>
 	<li><a href="https://doi.org/10.1016/j.heliyon.2024.e29750" target="_blank">W. Xu, L. Tang, N. Zhao, K. Ouyang, H. He, X. Liu, Corrosive Effect on Saturated Pool Boiling Heat Transfer Characteristics of Metallic Surfaces with Hierarchical Micro/Nano Structures. Heliyon 2024, 10 (8).</a></li>
 </ol>
 <ul class="actions">
-	<li><a href="Publication.html" class="button">More</a></li>
+	<li><a href="Publication.html" class="button">More details</a></li>
 </ul>
 
 <div class="row">
